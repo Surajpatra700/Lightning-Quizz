@@ -1,0 +1,129 @@
+{
+    "results": [
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Name the first women who cross the English Channel?",
+        "correct_answer": "Arti Gupta",
+        "incorrect_answers1": "Sneh Singh",
+        "incorrect_answers2": "Ujwala Rai",
+        "incorrect_answers3": "None of the above"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Youngest woman to climb Mount Everest two times in India?",
+        "correct_answer": "Dicky Dolma",
+        "incorrect_answers1": "Omana",
+        "incorrect_answers2": "Faria",
+        "incorrect_answers3": "None of the above"
+        
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "First woman to pass MA in India?",
+        "correct_answer": "Chandra Mukhi Bose",
+        "incorrect_answers1": "Leila Seth",
+        "incorrect_answers2": "Kadambani Bose",
+        "incorrect_answers3": "Thresia"
+        
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Name the first woman who become doctor on India? ",
+        "correct_answer": "Kadambani Ganguli",
+        "incorrect_answers1": "Cornelia Sorabji",
+        "incorrect_answers2": "Ujwala Rai",
+        "incorrect_answers3": "Anita Bose"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "First woman to circumnavigate around the world?",
+        "correct_answer": "Ujwala Rai",
+        "incorrect_answers1": "Anna George",
+        "incorrect_answers2": "Sucheta Kriplani",
+        "incorrect_answers3": "None of the above"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "First woman who recieved a Sena Medal in India",
+        "correct_answer": "Bimla Devi",
+        "incorrect_answers1": "Dicky Dolma",
+        "incorrect_answers2": "Santosh Yadav",
+        "incorrect_answers3": "Kiran Devi"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Name the first woman who become the speaker of Lok Sabha in India ?",
+        "correct_answer": "Mrs Shanno Devi",
+        "incorrect_answers1": "Leila Seth",
+        "incorrect_answers2": "Reita Feria",
+        "incorrect_answers3": "Mrs Sarojini Naidu"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "First woman editor of English newspaper in India ?",
+        "correct_answer": "Dina Vakil",
+        "incorrect_answers1": "P.K Thresia",
+        "incorrect_answers2": "Anna Chandi",
+        "incorrect_answers3": "None of the above"
+
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Name the first woman who become the advocate in India?",
+        "correct_answer": "Cornelia Sarabji",
+        "incorrect_answers1": "Arti Shah",
+        "incorrect_answers2": "Kamla Devi",
+        "incorrect_answers3": "None of the above"
+
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The woman who become the first IAS officer in India?",
+        "correct_answer": "Anna George Malhotra",
+        "incorrect_answers1": "M. Fatima Biwi",
+        "incorrect_answers2": "Kiran Bedi",
+        "incorrect_answers3": "None of the above"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who is the first Indian women to win  the WTA title?",
+        "correct_answer": "Sania Mirza",
+        "incorrect_answers1": "Shaina Nehwal",
+        "incorrect_answers2": "Mary Kom",
+        "incorrect_answers3": "Matina Hingis"
+
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the first women to fly among space?",
+        "correct_answer": " Valentina Terreshkova",
+        "incorrect_answers1": "Kalpana Chawla",
+        "incorrect_answers2": "Shunita Williams",
+        "incorrect_answers3": "Shanon Lucid"
+      }
+    ]
+}
